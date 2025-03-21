@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "stackblitz-starters-j6bs18wd",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
